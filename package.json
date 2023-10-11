@@ -1,0 +1,25 @@
+{
+  "name": "luxion",
+  "version": "0.0.1-alpha",
+  "description": "A Discord bot for XI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xi299/Luxion.git"
+  },
+  "keywords": [
+    "Discord",
+    "Discord Bot",
+    "Bot",
+    "XI"
+  ],
+  "author": "XI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xi299/Luxion/issues"
+  },
+  "homepage": "https://github.com/xi299/Luxion#readme"
+}
